@@ -1,0 +1,41 @@
+_repo: Happy-Ending_29206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brown, Fredric
+    birthdate: 1906
+    deathdate: 1972
+    gutenberg_agent_id: '32063'
+    url: http://www.gutenberg.org/2009/agents/32063
+    wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
+  - agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: A world had collapsed around this man-a world that would never shout
+  his praises again. The burned-out cities were still and dead, the twisted bodies
+  and twisted souls giving him their last salute in death. And now he was alone, alone
+  surrounded by memories, alone and waiting ...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Happy Ending
+url: http://www.gutenberg.org/ebooks/29206
